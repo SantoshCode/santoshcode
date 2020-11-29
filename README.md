@@ -2,7 +2,7 @@
 
 ## I'm a ✨Full Stack Developer✨
 - 🔭 I’m currently working as a Full Stack Developer at Buregon
-- 🌱 I’m currently learning AI for production
+- 🌱 I’m currently learning on how to improve performance at backend as app grows
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
 ### Connect with me:
