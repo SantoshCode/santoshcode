@@ -1,7 +1,7 @@
 ### Hi there, This is Santosh Subedi - AKA SantoshCode
 
-## I'm a ✨Full Stack Engineer[beta]✨
-- 🔭 I’m currently working as a Full Stack Developer!
+## I'm a ✨Full Stack Developer✨
+- 🔭 I’m currently working as a Full Stack Developer at Buregon
 - 🌱 I’m currently learning AI for production
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
