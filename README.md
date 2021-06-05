@@ -16,30 +16,39 @@
 
 <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" />
 
-### Connect with me:
+🔗 Connect with me:
 
 [<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
 [<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-
-### Languages and Tools:
-
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.svg" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
-<img align="left" alt="SpringBoot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
-<img align="left" alt="Jasmine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jasmine.svg" />
-
 <br />
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50" height="50"/> <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" alt="Nuxt" width="90" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/keystonejs.svg" alt="KeystoneJS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+
+---
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Cancel Axios request on component unmount | React.js (Hooks)](https://santoshsubedi.medium.com/cancel-axios-request-on-component-unmount-react-js-hooks-981beb008c4c)
+- [Get updated state value in React Hooks. Alternative to setState callback.](https://santoshsubedi.medium.com/get-updated-state-value-in-react-hooks-alternative-to-setstate-callback-3845b73ee231)
+<!-- BLOG-POST-LIST:END -->
+---
 
 
 
