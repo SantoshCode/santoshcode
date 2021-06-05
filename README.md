@@ -19,12 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" />
-</a>
+<img align="start" src="https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
+
+<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" />
 
 ### Languages and Tools:
 
