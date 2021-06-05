@@ -43,9 +43,9 @@
 
 🔗 Connect with me:
 
-[<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
-[<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+  [<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
+  [<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+  [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
