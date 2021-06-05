@@ -1,8 +1,8 @@
 ### Hi there, This is Santosh Subedi - AKA SantoshCode
 
 ## I'm a ✨Full Stack Developer✨
-- 🔭 I’m currently working as a Full Stack Developer at Buregon
-- 🌱 I’m currently learning on how to improve performance at backend as app grows
+- 🔭 I’m currently working as a Full Stack Developer at Buregon.
+- 🌱 I’m currently learning on how to improve performance at backend as app grows.
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
 ### Connect with me:
@@ -13,6 +13,19 @@
 [<img align="left" alt="Santosh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Some stats:
+
+<!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+</a>
 
 ### Languages and Tools:
 
@@ -35,6 +48,5 @@
 
 
 [facebook]: https://www.facebook.com/santosh.subedi.9484
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com/
+[twitter]: https://twitter.com/iam_santoshcode
+[linkedin]: https://www.linkedin.com/in/i-am-santosh-subedi/
