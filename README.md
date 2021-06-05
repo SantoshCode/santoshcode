@@ -24,14 +24,6 @@
 
 ---
 
-🔗 Connect with me:
-
-[<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
-[<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
 <!-- [![Santosh's github stats](https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +36,15 @@
 
 ---
 
+---
+
+🔗 Connect with me:
+
+[<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
+[<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+---
 
 [facebook]: https://www.facebook.com/santosh.subedi.9484
 [twitter]: https://twitter.com/iam_santoshcode
