@@ -10,21 +10,20 @@
 [<img align="left" alt="Santosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Santosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Santosh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Some stats:
 
-<!-- [![Amitoj's github stats](https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Santosh's github stats](https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amitojsingh366&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitojsingh366&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" />
 </a>
 
 ### Languages and Tools:
