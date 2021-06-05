@@ -43,9 +43,11 @@
 
 🔗 Connect with me:
 
-  [<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
-  [<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
-  [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+  [<img align="left" alt="Santosh | Facebook" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
+  [<img align="left" alt="Santosh | Twitter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+  [<img align="left" alt="Santosh | LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+  [<img align="left" alt="Santosh | LinkedIn" width="40px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" />][upwork]
+  
 
 <br />
 
@@ -54,3 +56,4 @@
 [facebook]: https://www.facebook.com/santosh.subedi.9484
 [twitter]: https://twitter.com/iam_santoshcode
 [linkedin]: https://www.linkedin.com/in/i-am-santosh-subedi/
+[upwork]: https://www.upwork.com/freelancers/~01220d51fa2c6517e6
