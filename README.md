@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Santosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Santosh | Facebook" width="22px" src="https://img-premium.flaticon.com/png/512/733/733547.png?token=exp=1622874591~hmac=9ffde8f3ab4e400ee348399dc97af5e6" />][facebook]
 [<img align="left" alt="Santosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
