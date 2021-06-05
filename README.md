@@ -47,7 +47,7 @@
 [<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-
+<br />
 ---
 
 [facebook]: https://www.facebook.com/santosh.subedi.9484
