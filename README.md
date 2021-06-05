@@ -5,13 +5,6 @@
 - 🌱 I’m currently learning on how to improve performance at backend as app grows.
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
-### Connect with me:
-
-[<img align="left" alt="Santosh | Facebook" width="22px" src="https://img-premium.flaticon.com/png/512/733/733547.png?token=exp=1622874591~hmac=9ffde8f3ab4e400ee348399dc97af5e6" />][facebook]
-[<img align="left" alt="Santosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Some stats:
 
@@ -19,9 +12,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="start" src="https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
+<!-- <img align="start" src="https://github-readme-stats.vercel.app/api?username=santoshcode&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" /> -->
 
-<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+<!-- <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshcode&layout=compact&theme=midnight-purple&bg_color=0d1117" /> -->
+
+### Connect with me:
+
+[<img align="left" alt="Santosh | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />][facebook]
+[<img align="left" alt="Santosh | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="Santosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
 
 ### Languages and Tools:
 
