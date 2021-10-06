@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning on how to improve performance at backend as app grows.
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
+<a href="https://app.daily.dev/SantoshCode"><img src="https://api.daily.dev/devcards/d574590c2415427f997c9a9cc9e725e7.png?r=f43" width="400" alt="Santosh Subedi's Dev Card"/></a>
+
 ---
 
 
