@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Santosh Subedi
 
+
 ## I'm a ✨Full Stack Developer✨
 - 🔭 I’m currently working as a Full Stack Developer at Buregon.
 - 🌱 I’m currently learning on how to improve performance at backend as app grows.
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
-<a href="https://app.daily.dev/SantoshCode"><img src="https://api.daily.dev/devcards/d574590c2415427f997c9a9cc9e725e7.png?r=f43" width="400" alt="Santosh Subedi's Dev Card"/></a>
 
 ---
 
@@ -42,6 +42,11 @@
 
 ---
 
+## 📘 Daily Dev Profile
+
+<a style="text-align: right" href="https://app.daily.dev/SantoshCode"><img src="https://api.daily.dev/devcards/d574590c2415427f997c9a9cc9e725e7.png?r=f43" width="400" alt="Santosh Subedi's Dev Card"/></a>
+
+
 
 🔗 Connect with me:
 
@@ -52,6 +57,7 @@
   
 
 <br />
+
 
 ---
 
