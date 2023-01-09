@@ -13,7 +13,6 @@
 
 ---
 
-[facebook]: https://www.facebook.com/santosh.subedi.9484
 [twitter]: https://twitter.com/iam_santoshcode
 [linkedin]: https://www.linkedin.com/in/i-am-santosh-subedi/
 [upwork]: https://www.upwork.com/freelancers/~01220d51fa2c6517e6
