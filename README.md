@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working as a Full Stack Developer.
+- 🤖
 
 🔗 Connect with me:
   [<img align="left" alt="Santosh | Twitter" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
